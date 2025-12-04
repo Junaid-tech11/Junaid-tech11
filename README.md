@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Junaid Abbasi 👋
 
-<!--
-**Junaid-tech11/Junaid-tech11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ | 🎓 Computer Science Student | 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- Building daily coding streaks with **JavaScript & Python**
+- Practicing problem sheets (150+ problems)
+- Polishing frontend projects with responsive layouts
+
+
+---
+
+## 📈 GitHub Streak
+I maintain a **daily push streak** using automation — keeping my learning journey visible and consistent.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frameworks:** Django, Node.js  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 🎯 Goals
+- Master Django template inheritance & clean UI design  
+- Solve 150+ coding problems across multiple sheets  
+- Build a recruiter‑friendly portfolio with polished projects  
+
+---
+
+## 🤝 Connect
+- GitHub: [Junaid-tech11](https://github.com/Junaid-tech11)  
+- LinkedIn: *(www.linkedin.com/in/
+junaid-abbasi-387a622a6
+)*  
