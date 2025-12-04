@@ -30,6 +30,14 @@ I maintain a **daily push streak** using automation — keeping my learning jour
 - Build a recruiter‑friendly portfolio with polished projects  
 
 ---
+## 📊 GitHub Stats
+
+![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junaid-tech11&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-tech11&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Junaid-tech11&theme=radical)
+
 
 ## 🤝 Connect
 - GitHub: [Junaid-tech11](https://github.com/Junaid-tech11)  
