@@ -19,15 +19,11 @@ I maintain a **daily push streak** using automation — keeping my learning jour
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Python, HTML, CSS  
-- **Frameworks:** Django, Node.js  
+- **Frameworks:** FastAPi, Node.js  
 - **Tools:** Git, GitHub, VS Code  
 
 ---
-
-## 🎯 Goals
-- Master Django template inheritance & clean UI design  
-- Solve 150+ coding problems across multiple sheets  
-- Build a recruiter‑friendly portfolio with polished projects  
+ 
 
 ---
 ## 📊 GitHub Stats
